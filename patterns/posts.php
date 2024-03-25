@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: List of posts in one column.
- * Slug: frost/posts
+ * Slug: robby/posts
  * Categories: posts
  * Block Types: core/query
  */
