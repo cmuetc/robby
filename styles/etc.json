@@ -1,8 +1,8 @@
 {
 	"version": 2,
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
-	"title": "Magenta",
-	"description":  "Magenta-based palette with two shades",
+	"title": "ETC",
+	"description":  "ETC Teal and Orange",
 	"settings": {
 		"color": {
 			"duotone": [
@@ -12,12 +12,12 @@
 					"slug": "black-and-white"
 				},
 				{
-					"colors": [ "#990066", "#ffffff" ],
+					"colors": [ "#5eb9b9", "#ffffff" ],
 					"name": "Primary and White",
 					"slug": "primary-and-white"
 				},
 				{
-					"colors": [ "#5c003d", "#ffffff" ],
+					"colors": [ "#f74b10", "#ffffff" ],
 					"name": "Secondary and White",
 					"slug": "secondary-and-white"
 				}
@@ -34,12 +34,12 @@
 					"slug": "contrast"
 				},
 				{
-					"color": "#990066",
+					"color": "#5eb9b9",
 					"name": "Primary",
 					"slug": "primary"
 				},
 				{
-					"color": "#5c003d",
+					"color": "#f74b10",
 					"name": "Secondary",
 					"slug": "secondary"
 				},

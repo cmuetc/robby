@@ -1,23 +1,23 @@
 {
 	"version": 2,
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
-	"title": "Orange",
-	"description":  "Orange-based palette with two shades",
+	"title": "Tartan",
+	"description":  "CMU tartan colors",
 	"settings": {
 		"color": {
 			"duotone": [
 				{
-					"colors": [ "#000000", "#ffffff" ],
-					"name": "Black and White",
-					"slug": "black-and-white"
+					"colors": [ "#333333", "#ffffff" ],
+					"name": "Grey and White",
+					"slug": "grey-and-white"
 				},
 				{
-					"colors": [ "#e65c00", "#ffffff" ],
+					"colors": [ "#fdb515", "#ffffff" ],
 					"name": "Primary and White",
 					"slug": "primary-and-white"
 				},
 				{
-					"colors": [ "#8a3700", "#ffffff" ],
+					"colors": [ "#009647", "#ffffff" ],
 					"name": "Secondary and White",
 					"slug": "secondary-and-white"
 				}
@@ -29,22 +29,22 @@
 					"slug": "base"
 				},
 				{
-					"color": "#000000",
+					"color": "#333333",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
-					"color": "#e65c00",
+					"color": "#fdb515",
 					"name": "Primary",
 					"slug": "primary"
 				},
 				{
-					"color": "#8a3700",
+					"color": "#009647",
 					"name": "Secondary",
 					"slug": "secondary"
 				},
 				{
-					"color": "#eeeeee",
+					"color": "#e0e0e0",
 					"name": "Neutral",
 					"slug": "neutral"
 				}

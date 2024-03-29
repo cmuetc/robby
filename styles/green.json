@@ -7,17 +7,17 @@
 		"color": {
 			"duotone": [
 				{
-					"colors": [ "#000000", "#ffffff" ],
-					"name": "Black and White",
-					"slug": "black-and-white"
+					"colors": [ "#333333", "#ffffff" ],
+					"name": "Grey and White",
+					"slug": "grey-and-white"
 				},
 				{
-					"colors": [ "#006600", "#ffffff" ],
+					"colors": [ "#00853e", "#ffffff" ],
 					"name": "Primary and White",
 					"slug": "primary-and-white"
 				},
 				{
-					"colors": [ "#003d00", "#ffffff" ],
+					"colors": [ "#1f4c4c", "#ffffff" ],
 					"name": "Secondary and White",
 					"slug": "secondary-and-white"
 				}
@@ -29,22 +29,22 @@
 					"slug": "base"
 				},
 				{
-					"color": "#000000",
+					"color": "#333333",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
-					"color": "#006600",
+					"color": "#00853e",
 					"name": "Primary",
 					"slug": "primary"
 				},
 				{
-					"color": "#003d00",
+					"color": "#1f4c4c",
 					"name": "Secondary",
 					"slug": "secondary"
 				},
 				{
-					"color": "#eeeeee",
+					"color": "#e0e0e0",
 					"name": "Neutral",
 					"slug": "neutral"
 				}
