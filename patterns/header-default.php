@@ -10,7 +10,12 @@
 <div class="wp-block-group alignfull" style="margin-top:0px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
 <!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide">
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+<!-- wp:site-logo /-->
 <!-- wp:site-title /-->
+</div>
+<!-- /wp:group -->
 <!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true}} /-->
 </div>
 <!-- /wp:group -->
