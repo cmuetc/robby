@@ -1,7 +1,9 @@
 <?php
 /**
  * This file adds functions to the Robby WordPress theme.
- *
+ * Based on Frost WordPress theme by WP Engine
+ * https://github.com/wpengine/frost
+ * 
  * @package Robby
  * @author  bm3n
  * @license GNU General Public License v3
@@ -114,3 +116,6 @@ function robby_register_block_pattern_categories() {
 }
 
 add_action( 'init', 'robby_register_block_pattern_categories' );
+
+// TODO: Review if this is needed
+add_theme_support( 'custom-logo' );
