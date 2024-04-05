@@ -25,7 +25,7 @@
 <!-- /wp:column -->
 <!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%"><!-- wp:image {"id":5886,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/sample_black_1200x1200.jpg'; ?>" alt="<?php echo esc_attr__( 'Sample Image', 'robby' ); ?>" class="wp-image-5886"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/sample_1200x1200.jpg'; ?>" alt="<?php echo esc_attr__( 'Sample Image', 'robby' ); ?>" class="wp-image-5886"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
