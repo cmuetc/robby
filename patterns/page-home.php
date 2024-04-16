@@ -8,7 +8,7 @@
 <!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","wideSize":"800px"}} -->
 <div class="wp-block-group alignwide" style="margin-top:0;margin-bottom:0"><!-- wp:image {"id":202,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
-<figure class="wp-block-image alignfull size-large"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby_hero_image.jpg'; ?>" alt="Hero Image" class="wp-image-202"/></figure>
+<figure class="wp-block-image alignfull size-large"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby_hero_image.jpg') ); ?>" alt="Hero Image" class="wp-image-202"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -16,7 +16,7 @@
 <div class="wp-block-group alignwide stacked has-base-color has-contrast-background-color has-text-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%"><!-- wp:image {"id":6003,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img <img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/sample_white_800x800.jpg'; ?>" alt="Robby Theme Sample Image" class="wp-image-6003"/></figure>
+<figure class="wp-block-image size-full"><img <img src="<?php echo esc_url( get_theme_file_uri('assets/images/sample_white_800x800.jpg') ); ?>" alt="Robby Theme Sample Image" class="wp-image-6003"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -43,7 +43,7 @@
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":207,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/ETC_Primary_Mark_4c.png'; ?>" alt="ETC Logo" class="wp-image-207"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/ETC_Primary_Mark_4c.png') ); ?>" alt="ETC Logo" class="wp-image-207"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->

@@ -22,7 +22,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls poster="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/video-poster.png'; ?>" src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/videos/forbidden-planet-trailer.mp4'; ?>"></video></figure>
+<figure class="wp-block-video"><video controls poster="<?php echo esc_url( get_theme_file_uri('assets/images/video-poster.png') ); ?>" src="<?php echo esc_url( get_theme_file_uri('assets/videos/forbidden-planet-trailer.mp4') ); ?>"></video></figure>
 <!-- /wp:video -->
 
 <!-- wp:heading -->
@@ -30,7 +30,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":204,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-hafsheet.png'; ?>" alt="Project Halfsheet" class="wp-image-204"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-hafsheet.png') ); ?>" alt="Project Halfsheet" class="wp-image-204"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

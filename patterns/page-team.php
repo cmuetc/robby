@@ -18,7 +18,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -38,7 +38,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -58,7 +58,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -80,7 +80,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -100,7 +100,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -120,7 +120,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -152,7 +152,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
@@ -172,7 +172,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3489,"width":"200px","height":"200px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/robby-portrait.png'; ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_theme_file_uri('assets/images/robby-portrait.png') ); ?>" alt="Sample Image" class="wp-image-3489" style="width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
