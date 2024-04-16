@@ -142,7 +142,7 @@
 
 <!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Faculty Advisors</h2>
+<h2 class="wp-block-heading has-text-align-center">Instructors</h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator -->
