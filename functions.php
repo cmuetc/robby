@@ -142,7 +142,7 @@ add_action( 'init', 'disable_emojis' );
 * Filter function used to remove the tinymce emoji plugin.
 * 
 * @param array $plugins 
-* @return array Difference betwen the two arrays
+* @return array Difference between the two arrays
 */
 function disable_emojis_tinymce( $plugins ) {
 	if ( is_array( $plugins ) ) {
@@ -157,7 +157,7 @@ function disable_emojis_tinymce( $plugins ) {
 *
 * @param array $urls URLs to print for resource hints.
 * @param string $relation_type The relation type the URLs are printed for.
-* @return array Difference betwen the two arrays.
+* @return array Difference between the two arrays.
 */
 function disable_emojis_remove_dns_prefetch( $urls, $relation_type ) {
 	if ( 'dns-prefetch' == $relation_type ) {
