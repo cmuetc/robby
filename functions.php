@@ -117,13 +117,15 @@ function robby_register_block_pattern_categories() {
 
 add_action( 'init', 'robby_register_block_pattern_categories' );
 
-// TODO: Review if this is needed
+// Add custom logo support
+// TODO: Review if this is actually needed to support header logos
 add_theme_support( 'custom-logo' );
 
 /**
- * Disable the emoji's
+ * Disable emoji's
+ * Ref: https://www.wpbeginner.com/plugins/how-to-disable-emojis-in-wordpress-4-2/
  * 
- * Code from: https://www.wpbeginner.com/plugins/how-to-disable-emojis-in-wordpress-4-2/
+ * This reduces the number of JavaScript dependencies in the exported site.
  */
 function disable_emojis() {
 	remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
