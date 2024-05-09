@@ -84,22 +84,22 @@
 				},
 				{
 					"color": "#333333",
-					"name": "Very Dark Grey",
+					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
 					"color": "#c41230",
-					"name": "Red",
+					"name": "Primary",
 					"slug": "primary"
 				},
 				{
 					"color": "#4d5051",
-					"name": "Dark Grey",
+					"name": "Secondary",
 					"slug": "secondary"
 				},
 				{
 					"color": "#e0e0e0",
-					"name": "Grey",
+					"name": "Neutral",
 					"slug": "neutral"
 				},
 				{
@@ -126,13 +126,7 @@
 					"color": "#1f4c4c",
 					"name": "Dark Green",
 					"slug": "dark-green"
-				},
-				{
-					"color": "#",
-					"name": "",
-					"slug": ""
 				}
-
 			]
 		},
 		"custom": {
